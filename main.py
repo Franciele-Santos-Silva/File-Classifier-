@@ -16,9 +16,9 @@ locais = {
 }
 
 for arquivo in lista_arquivos:
-    nome, extensao = os.path.splitext(f"{caminho}/{arquivo}") 
+    nome, extensao = os.path.splitext(arquivo)  
     for pasta in locais:
-        if extensao in locais[pasta]:
-            if not os.path.exists(f"{caminho}/{pasta}"):
-                os.mkdir(f"{caminho}/{pasta}")
-        os.rename("caminho/nome_antigo", "aminho/novo_nome")
+        if extensao.lower() in locais[pasta]: 
+            if not os.path.exists(os.path.join(caminho, pasta)):
+                os.mkdir(os.path.join(caminho, pasta))
+            os.rename(os.path.join(caminho, arquivo), os.path.join(caminho, pasta, arquivo))
