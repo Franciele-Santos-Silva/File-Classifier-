@@ -8,7 +8,7 @@ Este projeto em Python organiza automaticamente arquivos dentro de uma pasta sel
 
 - Biblioteca os
 
-- Biblioteca tkinter (para selecionar a pasta)
+- Biblioteca tkinter
 
 ## Funcionalidades
 
@@ -20,17 +20,17 @@ Este projeto em Python organiza automaticamente arquivos dentro de uma pasta sel
 
 - Movimentação dos arquivos para suas respectivas categorias:
 
-imagens: .png, .jpg, .jpeg, .gif, .bmp, .tiff
+- imagens: .png, .jpg, .jpeg, .gif, .bmp, .tiff
 
-documentos: .pdf, .doc, .docx, .txt, .xls, .xlsx, .ppt, .pptx
+- documentos: .pdf, .doc, .docx, .txt, .xls, .xlsx, .ppt, .pptx
 
-áudio: .mp3, .wav, .aac, .flac, .ogg
+- áudio: .mp3, .wav, .aac, .flac, .ogg
 
-vídeos: .mp4, .avi, .mov, .mkv, .flv
+- vídeos: .mp4, .avi, .mov, .mkv, .flv
 
-compactados: .zip, .rar, .tar, .gz, .7z
+- compactados: .zip, .rar, .tar, .gz, .7z
 
-outros: .csv, .json, .xml, .html, .css, .js
+- outros: .csv, .json, .xml, .html, .css, .js
 
 ## Como usar
 
@@ -59,3 +59,11 @@ outros: .csv, .json, .xml, .html, .css, .js
 6. O script moverá automaticamente os arquivos para pastas correspondentes por tipo.
 
 ## Funcionamento do Projeto
+
+### Antes
+
+(images/Antes.png)
+
+### Depois
+
+(images/Depois.png)
