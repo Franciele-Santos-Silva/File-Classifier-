@@ -20,17 +20,17 @@ Este projeto em Python organiza automaticamente arquivos dentro de uma pasta sel
 
 - Movimentação dos arquivos para suas respectivas categorias:
 
-- imagens: .png, .jpg, .jpeg, .gif, .bmp, .tiff
+imagens: .png, .jpg, .jpeg, .gif, .bmp, .tiff
 
-- documentos: .pdf, .doc, .docx, .txt, .xls, .xlsx, .ppt, .pptx
+documentos: .pdf, .doc, .docx, .txt, .xls, .xlsx, .ppt, .pptx
 
-- áudio: .mp3, .wav, .aac, .flac, .ogg
+áudio: .mp3, .wav, .aac, .flac, .ogg
 
-- vídeos: .mp4, .avi, .mov, .mkv, .flv
+vídeos: .mp4, .avi, .mov, .mkv, .flv
 
-- compactados: .zip, .rar, .tar, .gz, .7z
+compactados: .zip, .rar, .tar, .gz, .7z
 
-- outros: .csv, .json, .xml, .html, .css, .js
+outros: .csv, .json, .xml, .html, .css, .js
 
 ## Como usar
 
@@ -62,7 +62,12 @@ Este projeto em Python organiza automaticamente arquivos dentro de uma pasta sel
 
 ### Antes
 
-(images/Antes.png)
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <img src="assets/Antes.png" alt="Visualização do estado anterior" width="600">
+    <figcaption>Estado anterior da aplicação antes das modificações</figcaption>
+</figure>
+<!-- markdownlint-enable MD033 -->
 
 ### Depois
 
