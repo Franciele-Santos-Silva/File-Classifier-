@@ -49,14 +49,9 @@ outros: .csv, .json, .xml, .html, .css, .js
    ```bash
    python main.py
 
-4. Execute o script:
+4. Escolha a pasta que deseja organizar.
 
-    ```bash
-   python main.py
-
-5. Escolha a pasta que deseja organizar.
-
-6. O script moverá automaticamente os arquivos para pastas correspondentes por tipo.
+5. O script moverá automaticamente os arquivos para pastas correspondentes por tipo.
 
 ## Funcionamento do Projeto
 
