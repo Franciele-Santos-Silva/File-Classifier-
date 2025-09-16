@@ -60,11 +60,11 @@ outros: .csv, .json, .xml, .html, .css, .js
 
 ## Funcionamento do Projeto
 
-### - Antes
+### Antes
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <img src="assets/Antes.png" alt="Visualização do estado anterior" width="600">
+    <img src="assets/Antes.png" alt="Visualização do estado anterior" width="700">
     <figcaption>Arquivos na pasta antes da ordenação por tipo.</figcaption>
 </figure>
 <!-- markdownlint-enable MD033 -->
@@ -74,7 +74,7 @@ outros: .csv, .json, .xml, .html, .css, .js
 <!-- markdownlint-disable MD033 -->
    <figure>
         <img src="assets/Depois.png" alt="Visualização do estado posterior" width="600">
-        <figcaption>Arquivos na pasta organizados por tipo.</figcaption>
+        <figcaption>Arquivos classificados por tipo.</figcaption>
     </figure>
 </div>
 <!-- markdownlint-disable MD033 -->
