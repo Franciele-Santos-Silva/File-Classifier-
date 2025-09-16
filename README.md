@@ -64,7 +64,7 @@ outros: .csv, .json, .xml, .html, .css, .js
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <img src="assets/Antes.png" alt="Visualização do estado anterior" width="700">
+    <img src="assets/Antes.png" alt="Visualização do estado anterior" width="900">
     <figcaption>Arquivos na pasta antes da ordenação por tipo.</figcaption>
 </figure>
 <!-- markdownlint-enable MD033 -->
