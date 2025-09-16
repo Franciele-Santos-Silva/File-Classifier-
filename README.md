@@ -73,7 +73,7 @@ outros: .csv, .json, .xml, .html, .css, .js
 
 <!-- markdownlint-disable MD033 -->
    <figure>
-        <img src="assets/Depois.png" alt="Visualização do estado posterior" width="600">
+        <img src="assets/Depois.png" alt="Visualização do estado posterior" width="900">
         <figcaption>Arquivos classificados por tipo.</figcaption>
     </figure>
 </div>
